@@ -1,0 +1,3 @@
+[submodule "sampl"]
+	path = sampl
+	url = https://github.com/veenaskumar/sampl.git
